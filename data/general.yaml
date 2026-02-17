@@ -2,16 +2,10 @@ payload:
 
   # Domains
   - +.steamdb.info
-  
+
   ### Discord ###
-  # Core CDN
-  - +.discordcdn.com
-  - +.discordapp.net
-  - +.discord.media
-  - +.discord.com
 
   # Attachments / Media Storage
-  - +.discord-attachments-uploads-prd.storage.googleapis.com
   - +.storage.googleapis.com
   - +.googleapis.com
 
@@ -22,10 +16,6 @@ payload:
   - +.images-ext-2.discordapp.net
   - +.external-preview.redd.it
 
-  # Voice / RTC (sometimes affects loading behavior)
-  - +.discord.gg
-  - +.discordapp.com
-  - +.discordstatus.com
-
   # Stripe (Nitro / embeds sometimes fail without this)
   - +.stripe.com
+
