@@ -1,6 +1,8 @@
 payload:
 
   # Domains
+  - +.2ip.io
+  - +.airbnb.com
   - +.steamdb.info
 
   ### Discord ###
