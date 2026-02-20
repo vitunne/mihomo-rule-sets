@@ -3,6 +3,7 @@ payload:
   # Domains
   - 2ip.io
   - airbnb.com
+  - ntc.party
   - steamdb.info
 
   ### Discord ###
